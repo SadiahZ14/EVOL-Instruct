@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "instruction": "What is the capital of France?",
+        "response": "Paris"
+    },
+    {
+        "id": 2,
+        "instruction": "Who wrote 'To Kill a Mockingbird'?",
+        "response": "Harper Lee"
+    },
+    {
+        "id": 3,
+        "instruction": "What is the smallest country in the world?",
+        "response": "Vatican City"
+    },
+    {
+        "id": 4,
+        "instruction": "What is the chemical symbol for Gold?",
+        "response": "Au"
+    },
+    {
+        "id": 5,
+        "instruction": "How many elements are in the periodic table?",
+        "response": "118"
+    }
+]
