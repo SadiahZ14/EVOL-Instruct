@@ -18,7 +18,7 @@ Execute the main script to begin the evolution process:
 * Train Your Model:
 After generating the evolved instruction data, you can shuffle it with original dataset and fine-tune your LLM using the provided training scripts.
 
-![Evolution and Technical Details 2](https://github.com/SadiahZ14/EVOL-Instruct/assets/100665526/9ee87ef3-4649-4deb-a4ef-f8bc128ef3c4)
+![Evolution and Technical Details 2](https://github.com/SadiahZ14/EVOL-Instruct/assets/100665526/4acb85fc-c6ea-4d87-aca6-828f3794d769)
 
 ## Contribution
 Contributions to Evol-Instruct are welcome! Whether it's feature requests, bug reports, or code contributions, feel free to open an issue or create a pull request.
