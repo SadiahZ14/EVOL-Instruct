@@ -70,7 +70,7 @@ class EvolutionStrategy:
         # Add other prompt templates as needed
         
         # Randomly select one of the prompt templates
-        prompt_templates = [deepening_prompt, concretizing_prompt, increased_reasoning_steps_prompt]
+        prompt_templates = [add_constriants_prompt, deepening_prompt, concretizing_prompt, increased_reasoning_steps_prompt, create_new_instruction_prompt]
         chosen_prompt = random.choice(prompt_templates)
 
         
