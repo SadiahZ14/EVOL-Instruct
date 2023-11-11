@@ -14,8 +14,8 @@ Inspired by the research presented in the paper "WizardLM: Empowering Large Lang
 * Prepare Initial Data:<br>
 Start with a set of simple instructions in a JSON format, which will be used as the seed for evolving complex instructions.
 * Run Evol-Instruct:<br>
-Execute the main script to begin the evolution process:
-* Train Your Model:
+Execute the main script to begin the evolution process.
+* Train Your Model:<br>
 After generating the evolved instruction data, you can shuffle it with original dataset and fine-tune your LLM using the provided training scripts.
 
 ![Evolution and Technical Details 2](https://github.com/SadiahZ14/EVOL-Instruct/assets/100665526/4acb85fc-c6ea-4d87-aca6-828f3794d769)
