@@ -5,8 +5,8 @@ version: 1.0.0
 date-released: 2023-11-10
 
 authors:
-  - family-names: "Zahoor"  # Use standard double quotes here
-    given-names: "Sadiah"  # Use standard double quotes here
-    affiliation: "Continuum Labs"  # Use standard double quotes here
+  - family-names: "Zahoor" 
+    given-names: "Sadiah"  
+    affiliation: "Continuum Labs"  
 
 repository-code: "https://github.com/SadiahZ14/EVOL-Instruct" 
