@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: “EVOL-Instruct code based on WizardLM paper”
+version: 1.0.0
+date-released: 2023-11-10
+
+authors:
+  - family-names: “Zahoor”
+    given-names: “Sadiah"
+    affiliation: “Continuum Labs”
+
+repository-code: "https://github.com/SadiahZ14/EVOL-Instruct/blob/main/Evol%20Instruct.py"
